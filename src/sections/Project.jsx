@@ -1,8 +1,8 @@
 import { motion } from "motion/react";
-import muzzImage from "/assets/Muzz.png";
-import project2Image from "/assets/project2.png";
-import project3Image from "/assets/project3.png";
-import project4Image from "/assets/project4.png";
+import muzzImage from "../../Public/assets/Muzz.png";
+import project2Image from "../../Public/assets/project2.png";
+import project3Image from "../../Public/assets/project3.png";
+import project4Image from "../../Public/assets/project4.png";
 
 const Project = () => {
   const projects = [

@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { motion } from "motion/react";
-import menuIcon from "/assets/menu.svg";
-import closeIcon from "/assets/close.svg";
+import menuIcon from "../../Public/assets/menu.svg";
+import closeIcon from "../../Public/assets/close.svg";
 function Navigation() {
   return (
     <ul className="nav-ul">
