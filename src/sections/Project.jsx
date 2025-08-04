@@ -20,7 +20,7 @@ const Project = () => {
       description: "A collaborative task management application with real-time updates, drag-and-drop functionality, and team collaboration features.",
       technologies: ["Next.js", "TypeScript", "Socket.io", "Tailwind"],
       image: project2Image,
-      liveLink: "#",
+      liveLink: "https://task-manger-4rib.vercel.app/",
       githubLink: "https://github.com/Kamlesh4-cloud/Task-Manger.git",
       featured: true
     },
